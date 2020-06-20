@@ -34,7 +34,7 @@
 
 ## デも
 
-[簡単なデモ](http://opensource.org/licenses/MIT)
+[簡単なデモ](https://zhulinbin.github.io/resume_github_page/)
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
